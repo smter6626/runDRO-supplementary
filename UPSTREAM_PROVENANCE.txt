@@ -1,0 +1,38 @@
+UPSTREAM_HEAD=8a404de35281dbf2f8d84cc9c167c12af7572786
+
+===== remote =====
+origin	git@github.com:aciotinga/fastcircuits.git (fetch)
+origin	git@github.com:aciotinga/fastcircuits.git (push)
+
+===== branch =====
+main
+
+===== status =====
+## main...origin/main
+?? UPSTREAM_PROVENANCE.txt
+?? UPSTREAM_PROVENANCE.txt
+
+===== DEBD git entry =====
+160000 850908666388f1b1c766a304b37dae14613f1e51 0	DEBD
+
+===== recent commits =====
+8a404de (HEAD -> main, origin/main, origin/HEAD) FINAL
+910345d DONE
+03ac1d4 New circuit
+b64c39d test
+f6f57c6 Big experiments dump
+57797b2 MORE CIRCUITS
+af48cb3 Added baselines
+44d7cc5 Merge pull request #2 from aciotinga/results/runDRO-tmovie-20260610-121840
+aa8b9ab (origin/results/runDRO-tmovie-20260610-121840) Add completed EachMovie sample-DRO learning results
+7c8cb86 Merge pull request #1 from aciotinga/debug/runDRO-snapshot-20260609
+6916ea6 ASDJLAKSJDLAKJSD
+add8228 Updated eval
+2aff4c8 (origin/debug/runDRO-snapshot-20260609) Add current sample-DRO learning snapshot for debugging
+1758b50 MORE STUFF :D:D
+57980f6 Wwwwadsdasd
+7a23b35 Merge branch 'main' of https://github.com/aciotinga/fastcircuits
+58e4389 Fixed eval
+471bad1 Added some circuits
+9b14470 hyper
+fabd179 Learned stuff :3
